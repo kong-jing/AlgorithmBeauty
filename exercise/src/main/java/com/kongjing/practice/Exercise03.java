@@ -1,4 +1,4 @@
-package com.kongjing.liba;
+package com.kongjing.practice;
 
 /**
  * name: Excercise<p>
@@ -6,7 +6,7 @@ package com.kongjing.liba;
  * author Jing <P>
  * date: 2020/6/8 <p>
  */
-class Excercise03 {
+class Exercise03 {
 
 
     public static void main(String[] args) {

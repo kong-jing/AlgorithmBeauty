@@ -1,0 +1,3 @@
+include ':exercise'
+include ':app'
+rootProject.name = "AlgorithmBeauty"
